@@ -1,4 +1,4 @@
-# Nobel-Prizes-Data-Analytics
+# Nobel-Prizes-Insights
 
 1. Description of the subject of the data.
 For the present study, public information on Nobel Prizes was extracted. The Nobel Prize is an award given annually for the recognition of academic or scientific advances since 1901.
